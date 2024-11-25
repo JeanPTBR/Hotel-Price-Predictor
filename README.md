@@ -1,7 +1,13 @@
-# Inference Service
+# <p align="center"> 🏨 Hotel Price Predictor
 
 ## Project Description
-The application consists of an API that provides an endpoint to receive data via the POST method and performs inference using a trained ML model, returning the result.
+This API enables the classification of hotel reservations into price ranges based on key features from the provided dataset. Using a machine learning model trained on the Hotel Reservations Dataset from Kaggle, the system predicts which price range a reservation belongs to:
+
+- 1 for prices ≤ 85,
+- 2 for prices between 85 and 115,
+- 3 for prices ≥ 115.
+
+The original and transformed datasets are stored in AWS RDS, and the trained ML model is hosted in AWS S3. This API is designed to deliver accurate and efficient predictions, making it a scalable solution for price range classification in hotel bookings.
 
 ## Swagger
 <img alt="InferenceDocs" title="#InferenceDocs" src="./assets/img/InferenceDocs.png">
