@@ -120,6 +120,10 @@ To organize development and ensure smooth project progress, a Trello board was c
 
 If a problem arose that could compromise the progress of tasks assigned to each team member, the procedure was to allocate more members to help solve the problem more efficiently.
 
+## **License**
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Developers
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/97261564?v=4" width=115><br><sub>Gustavo Felipe da Costa Silva</sub>](https://github.com/gusttavofelipe) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/130758430?v=4" width=115><br><sub>Hugo Bessa Susini Ribeiro</sub>](https://github.com/hsusini) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/167718668?v=4" width=115><br><sub>Jean Carlos Penha da Conceição</sub>](https://github.com/JeanPTBR) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114765722?v=4" width=115><br><sub>Silvio Cabral de Melo Junior</sub>](https://github.com/SilvioCMJ)
 | :---: | :---: | :---: | :---: | 
