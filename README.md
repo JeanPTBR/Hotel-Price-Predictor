@@ -37,12 +37,12 @@ Alternatively, make a POST request to the endpoint http://174.129.226.5/api/v1/i
 ## Execution
 First, clone the repository using:
 ``` shell
-git clone https://github.com/Compass-pb-aws-2024-JUNHO/sprints-4-5-pb-aws-junho.git
+git clone https://github.com/JeanPTBR/Hotel-Price-Predictor.git
 
 ```
 Or (if you have SSH configured):
 ``` shell
-git clone git@github.com:Compass-pb-aws-2024-JUNHO/sprints-4-5-pb-aws-junho.git
+git clone git@github.com:JeanPTBR/Hotel-Price-Predictor.git
 
 ```
 
