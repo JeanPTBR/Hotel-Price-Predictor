@@ -46,8 +46,6 @@ git clone git@github.com:JeanPTBR/Hotel-Price-Predictor.git
 
 ```
 
-Switch to the `grupo-3` branch using: `git switch grupo-3`
-
 ### Development Environment
 To properly install and manage dependencies, you need to configure a virtual environment using venv:
 
